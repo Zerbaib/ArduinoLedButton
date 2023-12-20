@@ -5,7 +5,7 @@ int buttonState; // Declaration de la variable pour l'etat du boutton
 void setup()
 {
     pinMode(ledPin, OUTPUT); // OUTPUT est une constante Boolein 0 ou 1
-  pinMode(buttonPin, INPUT); // INPUT est une constante Boolein 0 ou 1
+    pinMode(buttonPin, INPUT); // INPUT est une constante Boolein 0 ou 1
 }
 
 void loop()
